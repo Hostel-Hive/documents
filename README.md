@@ -26,7 +26,7 @@ path the guideline specifies.
 | 6  | Test Coverage Report           | `testing/coverage-sprint8.pdf`          | Pending     |
 | 7  | Test Case Register             | `testing/test-register.pdf`             | Pending     |
 | 8  | OWASP Compliance Evidence      | [`security/owasp-checklist.pdf`](security/owasp-checklist.pdf) | Version 1.0 |
-| 9  | Performance Test Results       | `testing/performance-report.pdf`        | Pending     |
+| 9  | Performance Test Results       | [`testing/performance-report.pdf`](testing/performance-report.pdf) | Version 1.0 |
 | 11 | Retrospective Reports          | `retrospectives/`                       | Pending     |
 
 The source code, CI/CD pipelines and deployed application URL live in the
