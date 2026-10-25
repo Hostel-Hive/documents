@@ -21,8 +21,8 @@ path the guideline specifies.
 
 | #  | Artefact                       | Location                                | Status      |
 | -- | ------------------------------ | --------------------------------------- | ----------- |
-| 1  | Updated SRS                    | `srs/srs-final.pdf`                     | Pending     |
-| 2  | Updated SDS                    | `sds/sds-final.pdf`                     | Pending     |
+| 1  | Updated SRS                    | [`srs/srs-final.pdf`](srs/srs-final.pdf) | Version 1.0 |
+| 2  | Updated SDS                    | [`sds/sds-final.pdf`](sds/sds-final.pdf) | Version 1.0 |
 | 6  | Test Coverage Report           | `testing/coverage-sprint8.pdf`          | Pending     |
 | 7  | Test Case Register             | `testing/test-register.pdf`             | Pending     |
 | 8  | OWASP Compliance Evidence      | [`security/owasp-checklist.pdf`](security/owasp-checklist.pdf) | Version 1.0 |
