@@ -1,0 +1,45 @@
+# ---------------------------------------------------------------
+# LaTeX build artefacts (sources *.tex and final PDFs are tracked)
+# ---------------------------------------------------------------
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lol
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.vrb
+*.xdv
+*.dvi
+_minted*/
+*.bak
+*.tmp
+
+# Intermediate PDFs written next to the sources; only the published
+# PDF one level above each src/ folder is committed.
+**/src/**
+
+# ---------------------------------------------------------------
+# Editors and operating systems
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office lock files
+~$*
